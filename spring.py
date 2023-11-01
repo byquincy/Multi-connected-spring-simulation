@@ -24,7 +24,8 @@ class Spring:
         )
     
     def calcX(self, t):
-        return self.A + self.A * math.sin(math.sqrt(self.k / self.m)*t + self.offset)
+        return self.
+    =A + self.A * math.sin(math.sqrt(self.k / self.m)*t + self.offset)
 
 
 class Spring2D:
